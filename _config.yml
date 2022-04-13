@@ -32,9 +32,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Descubriendo el mundo
 subtitle: agencia vijes
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
+description: >- # podras encontrar variedades de paquetes para viajar a donde quieras!!!, armar personalizadamente sus pquetes, variantes costos desde $5000
 author: Your Incredible Name
 email: desc.el.mundo@gmail.com
 avatar: https://www.google.com/imgres?imgurl=https%3A%2F%2Fdescubriendoelmundo100.files.wordpress.com%2F2017%2F06%2Flogo-2.jpg&imgrefurl=https%3A%2F%2Fdescubriendoelmundo.blog%2F&tbnid=YQ7zX6psawlSNM&vet=12ahUKEwjut4qaw4_3AhUjdM0KHWaeDvMQMygAegUIARDDAQ..i&docid=J9X6vm1EdZjEtM&w=2500&h=1564&q=descubriendo%20el%20mundo&ved=2ahUKEwjut4qaw4_3AhUjdM0KHWaeDvMQMygAegUIARDDAQ
