@@ -6,18 +6,18 @@
 ![image](https://user-images.githubusercontent.com/99926808/165809415-038eaebf-e7b4-44a3-93f3-92160feafef1.png)
 
 
-en esta pagina encontraras diferentes paquetes pa un buen viaje!!!
-# Added Features
+En esta pagina encontraras diferentes paquetes pa un buen viaje!!!
+# Paquetes
 
 * **Blogging and multi-page features you expect from Jekyll**
-* Compatible with GitHub Pages
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Build your homepage with **custom scrolly sections** in the _sections folder
- * Set a **cover photo** for any section (not just the first), with alt text for screen readers and SEO
-* Add your **social profiles** easily in `_config.yml`.
-* Automatic search engine optimization (SEO) **meta tags** based on info you provide in `_config.yml` and frontmatter
-* **Google Analytics** built-in; just put your [Tracking ID](https://support.google.com/analytics/answer/1008080?hl=en) in `_config.yml` as `google_analytics`
-* Custom **404 page** (called 404.html; to activate, move it to your project directory).
+* cancun
+* **merida
+* huatulco
+ * las vegas
+* Melia puerto vallarta
+* Acatalonia
+* park royal
+* playa blanca
 
 # Installation
 
